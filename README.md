@@ -5,7 +5,7 @@ The data was collected from [Google Scholar](https://scholar.google.com/). The c
 
 Each row of the dataset consists of following collumns:
 | Column | Description | Example |
-|--------|:-----------:|--------:|
+|:--------|:-----------:|:--------:|
 | Paper_id | Unique paper identification | 1 |
 | URL | WEB link to a paper | https://arxiv.org/pdf/1809.07053.pdf |
 | Title | Paper title | NAIS: Neural Attentive Item Similarity Model for Recommendation |
