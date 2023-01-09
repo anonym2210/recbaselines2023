@@ -18,5 +18,5 @@ Each row of the dataset consists of following collumns:
 ## Dataset statistics
 
 | Number of papers | Number of models | Number of interactions | Density |
-|:--------|:-----------:|:--------:|
+|:----------------:|:----------------:|:----------------------:|:-------:|
 | 1,208 | 350 | 5,480 | 1.3\% |
